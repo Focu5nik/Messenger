@@ -1,0 +1,118 @@
+{
+  "hash": "6caba620",
+  "configHash": "e829c3e2",
+  "lockfileHash": "439b8071",
+  "browserHash": "a2a05e32",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "c1b7bbca",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "dc9deac7",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "bfa7f52e",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "6175eb7c",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "be0e55cd",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
+      "file": "@angular_platform-browser_animations.js",
+      "fileHash": "2d53dbbf",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "0e5d6e4f",
+      "needsInterop": false
+    },
+    "@fortawesome/angular-fontawesome": {
+      "src": "../../../../../node_modules/@fortawesome/angular-fontawesome/fesm2022/angular-fontawesome.mjs",
+      "file": "@fortawesome_angular-fontawesome.js",
+      "fileHash": "f1d274e6",
+      "needsInterop": false
+    },
+    "@fortawesome/free-solid-svg-icons": {
+      "src": "../../../../../node_modules/@fortawesome/free-solid-svg-icons/index.mjs",
+      "file": "@fortawesome_free-solid-svg-icons.js",
+      "fileHash": "8b1cbab3",
+      "needsInterop": false
+    },
+    "bcryptjs": {
+      "src": "../../../../../node_modules/bcryptjs/dist/bcrypt.js",
+      "file": "bcryptjs.js",
+      "fileHash": "c55842bc",
+      "needsInterop": true
+    },
+    "crypto-js": {
+      "src": "../../../../../node_modules/crypto-js/index.js",
+      "file": "crypto-js.js",
+      "fileHash": "1f74f55f",
+      "needsInterop": true
+    },
+    "ngx-toastr": {
+      "src": "../../../../../node_modules/ngx-toastr/fesm2022/ngx-toastr.mjs",
+      "file": "ngx-toastr.js",
+      "fileHash": "31d7a1f0",
+      "needsInterop": false
+    },
+    "node-forge": {
+      "src": "../../../../../node_modules/node-forge/lib/index.js",
+      "file": "node-forge.js",
+      "fileHash": "c1c905b8",
+      "needsInterop": true
+    },
+    "rxjs": {
+      "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "2381e2a3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-22G4DPEV": {
+      "file": "chunk-22G4DPEV.js"
+    },
+    "chunk-Y765NIB6": {
+      "file": "chunk-Y765NIB6.js"
+    },
+    "chunk-PBCWFTB3": {
+      "file": "chunk-PBCWFTB3.js"
+    },
+    "chunk-CUTN7DIV": {
+      "file": "chunk-CUTN7DIV.js"
+    },
+    "chunk-II4BP6BS": {
+      "file": "chunk-II4BP6BS.js"
+    },
+    "chunk-5QVVDPJY": {
+      "file": "chunk-5QVVDPJY.js"
+    },
+    "chunk-WSA2QMXP": {
+      "file": "chunk-WSA2QMXP.js"
+    },
+    "chunk-X6JV76XL": {
+      "file": "chunk-X6JV76XL.js"
+    }
+  }
+}
